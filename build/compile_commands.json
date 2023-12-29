@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/BPTree.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/BPTree.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/BPTree.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/BPTree.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Block.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/Block.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/Block.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/Block.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/InternalNode.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/InternalNode.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/InternalNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/InternalNode.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/LeafNode.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/LeafNode.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/LeafNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/LeafNode.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Query.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/Query.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/Query.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/Query.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/RecordPtr.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/RecordPtr.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/RecordPtr.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/RecordPtr.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/TreeNode.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/TreeNode.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/TreeNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/TreeNode.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/UnorderedHeap.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/UnorderedHeap.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/UnorderedHeap.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/UnorderedHeap.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/main.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/main.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/main.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build",
+  "command": "/usr/bin/g++  -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/include\" -I\"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src\" -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/utils.cpp.o -c \"/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/utils.cpp\"",
+  "file": "/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/src/utils.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/utils.cpp.o"
+}
+]

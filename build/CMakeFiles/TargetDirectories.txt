@@ -1,0 +1,3 @@
+/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build/CMakeFiles/BPTree.dir
+/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build/CMakeFiles/edit_cache.dir
+/home/venkat/Downloads/Sem7/Data Systems/phase3/phase-3-team-21-main/build/CMakeFiles/rebuild_cache.dir
